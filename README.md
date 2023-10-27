@@ -21,3 +21,11 @@ Your Stock's Best Friend
 - **Supplies Overview**: View all supply transactions and ascertain the total expenditure.
   
 - **Stock Overview**: Stay informed about stock levels for each product, aiding in timely replenishment.
+
+## Technologies Used
+
+- .NET Framework
+- C#
+- MySQL
+- Windows Forms App
+
