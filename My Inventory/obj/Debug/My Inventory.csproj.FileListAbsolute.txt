@@ -1,0 +1,89 @@
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\My Inventory.exe.config
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\My Inventory.exe
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\My Inventory.pdb
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My Inventory.csproj.AssemblyReference.cache
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My Inventory.csproj.SuggestedBindingRedirects.cache
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.Properties.Resources.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My Inventory.csproj.GenerateResource.cache
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My Inventory.csproj.CoreCompileInputs.cache
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My Inventory.exe
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My Inventory.pdb
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.Admin_Panel.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Kategorit_UC.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\Google.Protobuf.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\K4os.Compression.LZ4.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\K4os.Hash.xxHash.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\MySql.Data.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\System.Buffers.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\System.Memory.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\System.Numerics.Vectors.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\Ubiety.Dns.Core.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\ZstdNet.dll
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\BouncyCastle.Crypto.xml
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\Google.Protobuf.pdb
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\Google.Protobuf.xml
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\K4os.Compression.LZ4.xml
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\K4os.Hash.xxHash.xml
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\MySql.Data.xml
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\System.Buffers.xml
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\System.Memory.xml
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\System.Numerics.Vectors.xml
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My Inventory.csproj.CopyComplete
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Edit_Kategori.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Add_Category.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.User_Controls.Produktet_UC.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Edit_Product.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Add_Product.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.User_Controls.Sales_UC.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Supply_Forms.Supply.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.User_Controls.Supply_UC.resources
+E:\Projekte\Inventory Managment System\My Inventory\My Inventory\obj\Debug\My_Inventory.User_Controls.Home_UC.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\My Inventory.exe.config
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\My Inventory.exe
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\My Inventory.pdb
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\Google.Protobuf.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\K4os.Compression.LZ4.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\K4os.Hash.xxHash.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\MySql.Data.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\System.Buffers.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\System.Memory.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\System.Numerics.Vectors.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\Ubiety.Dns.Core.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\ZstdNet.dll
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\BouncyCastle.Crypto.xml
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\Google.Protobuf.pdb
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\Google.Protobuf.xml
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\K4os.Compression.LZ4.xml
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\K4os.Hash.xxHash.xml
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\MySql.Data.xml
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\System.Buffers.xml
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\System.Memory.xml
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\System.Numerics.Vectors.xml
+E:\Projekte\MyInventory\My Inventory\My Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My Inventory.csproj.AssemblyReference.cache
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Add_Category.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Add_Product.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.Admin_Panel.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Edit_Kategori.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Edit_Product.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Supply_Forms.Supply.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.User_Controls.Home_UC.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.Forms.Kategorit_UC.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.Properties.Resources.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.User_Controls.Produktet_UC.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.User_Controls.Sales_UC.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My_Inventory.User_Controls.Supply_UC.resources
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My Inventory.csproj.GenerateResource.cache
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My Inventory.csproj.CoreCompileInputs.cache
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My Inventory.csproj.CopyComplete
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My Inventory.exe
+E:\Projekte\MyInventory\My Inventory\My Inventory\obj\Debug\My Inventory.pdb
